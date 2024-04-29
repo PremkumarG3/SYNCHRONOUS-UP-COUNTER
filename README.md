@@ -65,4 +65,5 @@ endmodule
 ![Screenshot 2024-04-25 192629](https://github.com/PremkumarG3/SYNCHRONOUS-UP-COUNTER/assets/138955646/a626d57a-bde9-49d9-92f1-22fb4ee24a3d)
 
 **RESULTS**
+
 Hence a 4 bit synchronous up counter is implemented correctly
